@@ -43,7 +43,7 @@ Custom celebrity face dataset containing facial images of the following classes:
 * Ileana D'Cruz
 
 Each folder contains multiple `.jpg` face images used for training and testing.
-
+dataset: https://drive.google.com/drive/folders/1BXxx9EHMg94WHmV4VsoW_XegxL4OXjmg?usp=drive_link
 ---
 
 ## Project Structure
