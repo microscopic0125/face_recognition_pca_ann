@@ -1,0 +1,7 @@
+K=10, Accuracy=0.6222
+K=20, Accuracy=0.6556
+K=30, Accuracy=0.6111
+K=40, Accuracy=0.6333
+K=50, Accuracy=0.6667
+K=75, Accuracy=0.7000
+K=100, Accuracy=0.7667
